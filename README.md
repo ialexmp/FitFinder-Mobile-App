@@ -19,6 +19,7 @@ If you want to explore more detailed information about FitFinder, please refer t
 FitFinder acknowledges the support from Pompeu Fabra University and the dedication of its contributors.
 
 *(Last updated: April 2022)*
+
 -----------------------
 Happy Exercising with FitFinder! 💪🏋️‍♂️
 
